@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://srucbefe.github.io/sitemap/sitemap.txt
